@@ -7,7 +7,7 @@
 
 ## Overview
 
-### Multi-Output AC Power Distribution Board**
+### Multi-Output AC Power Distribution Board
 SYLVESTER streamlines the distribution of AC power for various devices, effectively solving the challenges associated with fused terminal blocks. Sized at 76mm x 86mm, it's equipped with two screw holes for easy mounting. This board includes 2 input and 6 output terminal blocks, each outfitted with individual blow glass fuses for secure and organized power distribution.
 
 📚 Check out the different board versions below:
