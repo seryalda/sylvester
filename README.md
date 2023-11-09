@@ -1,5 +1,5 @@
 ## Top
-# DAWG Board Version History
+# SYLVESTER Board Version History
 
 
 
@@ -7,7 +7,8 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
+### Multi-Output AC Power Distribution Board**
+SYLVESTER streamlines the distribution of AC power for various devices, effectively solving the challenges associated with fused terminal blocks. Sized at 76mm x 86mm, it's equipped with two screw holes for easy mounting. This board includes 2 input and 6 output terminal blocks, each outfitted with individual blow glass fuses for secure and organized power distribution.
 
 📚 Check out the different board versions below:
 
