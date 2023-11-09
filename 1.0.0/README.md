@@ -33,7 +33,12 @@ This board streamlines the distribution of AC power for multiple devices, elimin
 
 ## Things you need to know
 
-NA
+### SYLVESTER - Multi-Output RAIL DIN Board with Fused Terminal Blocks
+- **AC Power Distribution:** Utilize the board for streamlined AC power distribution to multiple devices for DIY projects.
+- **Fused Protection:** Each output screw terminal block has individual blow glass fuses for safe power distribution.
+- **Installation:** The board comes with two screw holes for convenient and easy installation on the RAIL DIN system.
+- **Eliminating Circuit Breakers:** This board replaces the need for multiple circuit breakers or terminal blocks in your setup.
+- **Safe Power Distribution:** Provides organized and safe power distribution, ensuring the protection of connected devices.
 
 [🔝 Top](#top)
 
