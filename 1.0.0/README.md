@@ -1,5 +1,5 @@
 ## Top
-# 🎉 DAWG AC Relay Driver Board v1.0.0
+# 🎉 SYLVESTER - Multi-Output RAIL DIN Board with Fused Terminal Blocks v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
@@ -19,21 +19,16 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
+SYLVESTER is a specialized RAIL DIN board that solves the common problem of distributing AC power for DIY electronic projects. Measuring 76mm x 86mm, it features two screw holes, making installation convenient. The board comprises 2 input screw terminal blocks with blow glass fuses and 6 output screw terminal blocks, each assigned with a blow glass fuse for individual protection.
 
-## Features
+This board streamlines the distribution of AC power for multiple devices, eliminating the need for multiple circuit breakers or terminal blocks. Each output terminal block ensures safe power distribution with individual fused protection.
 
-- **Relay Control:** This feature simplifies the process of controlling mechanical and solid-state relays, enabling you to manage higher voltage loads with ease.
-
-- **Versatility:** The board is designed to drive HV relay switches, encompassing both mechanical and solid-state options, making it adaptable to a wide range of applications.
-
-- **Ease of Integration:** The board ensures easy integration through user-friendly terminal screw blocks, connectors, and pin headers configurations.
-
-- **DIN Rail Support:** DIN RAIL compatibility enables seamless mounting in standard 35mm DIN RAIL enclosures. This feature ensures that your projects have a professional and sturdy appearance and can be effortlessly integrated into existing distribution panels.
-
-- **Comprehensive Documentation:** Access comprehensive documentation to swiftly get started and leverage the full potential of your relay driver.
-
-
+### Features
+- RAIL DIN board designed for distributing AC power to multiple devices.
+- Features 2 input screw terminal blocks with blow glass fuses for protection.
+- Includes 6 output screw terminal blocks, each with individual blow glass fuses.
+- Streamlines power distribution without the need for multiple circuit breakers or terminal blocks.
+- Provides safe and organized power distribution for DIY electronic projects.
 
 [🔝 Top](#top)
 
